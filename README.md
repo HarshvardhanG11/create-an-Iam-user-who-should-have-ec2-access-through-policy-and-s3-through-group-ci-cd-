@@ -1,0 +1,2 @@
+# create-an-Iam-user-who-should-have-ec2-access-through-policy-and-s3-through-group-ci-cd-
+This project demonstrates how to create an AWS IAM user with EC2 access through a custom policy and S3 access through a user group (ci-cd). It provides a step-by-step guide for implementing role-based access control (RBAC) using IAM users, groups, and policies in AWS. Ideal for beginners learning AWS IAM and permissions management.
